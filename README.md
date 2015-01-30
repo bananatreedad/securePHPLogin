@@ -1,5 +1,7 @@
 # securePHPLogin
-my first php project. target is a simple but secure login free to use one every hp.
+my first php project. target is a simple but secure login free to use one every hp. 
+similar to https://github.com/peredurabefrog/phpSecureLogin
+built after http://de.wikihow.com/Ein-sicheres-Login-Skript-mit-PHP-und-MySQL-erstellen
 
 # setup
 - xampp server
