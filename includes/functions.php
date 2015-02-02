@@ -24,6 +24,7 @@ function sec_session_start() {
     session_regenerate_id();    // Erneuert die Session, löscht die alte. 
 }
 
+//a change
 function login($email, $password, $mysqli) {
     // Das Benutzen vorbereiteter Statements verhindert SQL-Injektion.
     if ($stmt = $mysqli->prepare("SELECT id, username, password, salt 
